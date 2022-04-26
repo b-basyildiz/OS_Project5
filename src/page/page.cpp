@@ -8,6 +8,8 @@
 
 using namespace std;
 
+#include <stdexcept>//I added this for the get_byte_at_offset function
+
 // Ensure PAGE_SIZE is initialized.
 const size_t Page::PAGE_SIZE;
 
@@ -31,13 +33,16 @@ Page* Page::read_from_input(std::istream& in) {
 size_t Page::size() const
 {
     // TODO
-    return 0;
+    return this->bytes.size();
 }
 
 
 bool Page::is_valid_offset(size_t offset) const
 {
     // TODO
+   if(offset < this->size()){
+       return true;
+   }
     return false;
 }
 
@@ -45,5 +50,11 @@ bool Page::is_valid_offset(size_t offset) const
 char Page::get_byte_at_offset(size_t offset)
 {
     // TODO
-    return false;
+    /*
+    if(this->is_valid_offset(offset)){
+        return this->bytes[offset];
+    }
+    return NULL;
+    */
+   return this->bytes[offset];
 }
