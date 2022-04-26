@@ -1,0 +1,47 @@
+PID 10 @ 0000010011101111 [page: 19; offset: 47]
+    -> PAGE FAULT
+    -> physical address 0000000000101111 [frame: 0; offset: 47]
+    -> RSS: 1     
+
+PID 10 @ 0000101001100000 [page: 41; offset: 32]
+    -> PAGE FAULT
+    -> physical address 0000000001100000 [frame: 1; offset: 32]
+    -> RSS: 2     
+
+PID 10 @ 0000101011000111 [page: 43; offset: 7]
+    -> PAGE FAULT
+    -> physical address 0000000010000111 [frame: 2; offset: 7]
+    -> RSS: 3     
+
+PID 10 @ 0000010011101111 [page: 19; offset: 47]
+    -> IN MEMORY
+    -> physical address 0000000000101111 [frame: 0; offset: 47]
+    -> RSS: 3     
+
+PID 10 @ 0000010001010010 [page: 17; offset: 18]
+    -> PAGE FAULT
+    -> physical address 0000000011010010 [frame: 3; offset: 18]
+    -> RSS: 4     
+
+PID 10 @ 0000001111000100 [page: 15; offset: 4]
+    -> PAGE FAULT
+    -> physical address 0000000100000100 [frame: 4; offset: 4]
+    -> RSS: 5     
+
+PID 10 @ 0000110000111101 [page: 48; offset: 61]
+    -> PAGE FAULT
+    -> physical address 0000000000111101 [frame: 0; offset: 61]
+    -> RSS: 5     
+
+PID 10 @ 0000001001001111 [page: 9; offset: 15]
+    -> PAGE FAULT
+    -> physical address 0000000001001111 [frame: 1; offset: 15]
+    -> RSS: 5     
+
+PID 42 @ 0000000001110001 [page: 1; offset: 49]
+    -> PAGE FAULT
+    -> physical address 0000000101110001 [frame: 5; offset: 49]
+    -> RSS: 1     
+
+PID 10 @ 0000111110101111 [page: 62; offset: 47]
+SEGFAULT - INVALID PAGE

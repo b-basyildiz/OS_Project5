@@ -1,0 +1,14 @@
+PID 10 @ 0000010011101111 [page: 19; offset: 47]
+    -> PAGE FAULT
+    -> physical address 0000000000101111 [frame: 0; offset: 47]
+    -> RSS: 1     
+
+PID 42 @ 0000000001110001 [page: 1; offset: 49]
+    -> PAGE FAULT
+    -> physical address 0000000001110001 [frame: 1; offset: 49]
+    -> RSS: 1     
+
+PID 10 @ 0000110001111111 [page: 49; offset: 63]
+    -> PAGE FAULT
+    -> physical address 0000000010111111 [frame: 2; offset: 63]
+SEGFAULT - INVALID OFFSET

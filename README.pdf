@@ -1,0 +1,2859 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 7 0 R /F5 14 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 49 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Contents 50 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Contents 51 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Contents 52 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Contents 53 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Contents 54 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 55 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+16 0 obj
+<<
+/Outlines 18 0 R /PageLabels 56 0 R /PageMode /UseNone /Pages 46 0 R /Type /Catalog
+>>
+endobj
+17 0 obj
+<<
+/Author () /CreationDate (D:20211111103033+07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20211111103033+07'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (CSCI-442 - Project 5 - A Simple Memory Management Simulator) /Trapped /False
+>>
+endobj
+18 0 obj
+<<
+/Count 33 /First 19 0 R /Last 45 0 R /Type /Outlines
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 705.0236 0 ] /Next 20 0 R /Parent 18 0 R /Title (Introduction)
+>>
+endobj
+20 0 obj
+<<
+/Count 2 /Dest [ 5 0 R /XYZ 62.69291 588.0236 0 ] /First 21 0 R /Last 22 0 R /Next 23 0 R /Parent 18 0 R 
+  /Prev 19 0 R /Title (Deliverables)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 555.0236 0 ] /Next 22 0 R /Parent 20 0 R /Title (Deliverable 1)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 501.0236 0 ] /Parent 20 0 R /Prev 21 0 R /Title (Deliverable 2)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 765.0236 0 ] /Next 24 0 R /Parent 18 0 R /Prev 20 0 R /Title (Grading)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 570.0236 0 ] /Next 25 0 R /Parent 18 0 R /Prev 23 0 R /Title (Requirements and Reference)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Next 26 0 R /Parent 18 0 R /Prev 24 0 R /Title (Submission Checklist)
+>>
+endobj
+26 0 obj
+<<
+/Count 3 /Dest [ 8 0 R /XYZ 62.69291 486.0236 0 ] /First 27 0 R /Last 29 0 R /Next 30 0 R /Parent 18 0 R 
+  /Prev 25 0 R /Title (Getting Started)
+>>
+endobj
+27 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 765.0236 0 ] /Next 28 0 R /Parent 26 0 R /Title (Where to Start?)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 549.0236 0 ] /Next 29 0 R /Parent 26 0 R /Prev 27 0 R /Title (Unit Tests)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 351.0236 0 ] /Parent 26 0 R /Prev 28 0 R /Title (Output Testing)
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /Next 31 0 R /Parent 18 0 R /Prev 26 0 R /Title (Simulation Properties)
+>>
+endobj
+31 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 270.0236 0 ] /Next 32 0 R /Parent 18 0 R /Prev 30 0 R /Title (Replacement Strategies)
+>>
+endobj
+32 0 obj
+<<
+/Count 4 /Dest [ 11 0 R /XYZ 62.69291 765.0236 0 ] /First 33 0 R /Last 35 0 R /Next 37 0 R /Parent 18 0 R 
+  /Prev 31 0 R /Title (Required Output)
+>>
+endobj
+33 0 obj
+<<
+/Count 1 /Dest [ 11 0 R /XYZ 62.69291 714.0236 0 ] /First 34 0 R /Last 34 0 R /Next 35 0 R /Parent 32 0 R 
+  /Title (You Need to Implement)
+>>
+endobj
+34 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 684.0236 0 ] /Parent 33 0 R /Title (\205verbose)
+>>
+endobj
+35 0 obj
+<<
+/Count 1 /Dest [ 11 0 R /XYZ 62.69291 417.8236 0 ] /First 36 0 R /Last 36 0 R /Parent 32 0 R /Prev 33 0 R 
+  /Title (Implemented For You)
+>>
+endobj
+36 0 obj
+<<
+/Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /Parent 35 0 R /Title (\205csv)
+>>
+endobj
+37 0 obj
+<<
+/Dest [ 12 0 R /XYZ 62.69291 570.8236 0 ] /Next 38 0 R /Parent 18 0 R /Prev 32 0 R /Title (Simulation File Format)
+>>
+endobj
+38 0 obj
+<<
+/Count 5 /Dest [ 13 0 R /XYZ 62.69291 765.0236 0 ] /First 39 0 R /Last 43 0 R /Next 44 0 R /Parent 18 0 R 
+  /Prev 37 0 R /Title (Command-Line Flags)
+>>
+endobj
+39 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 470.8236 0 ] /Next 40 0 R /Parent 38 0 R /Title (-c,&nbsp;-\205csv)
+>>
+endobj
+40 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 422.8236 0 ] /Next 41 0 R /Parent 38 0 R /Prev 39 0 R /Title (-v,&nbsp;-\205verbose)
+>>
+endobj
+41 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 374.8236 0 ] /Next 42 0 R /Parent 38 0 R /Prev 40 0 R /Title (-s,&nbsp;\205-strategy&nbsp;)
+>>
+endobj
+42 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 290.8236 0 ] /Next 43 0 R /Parent 38 0 R /Prev 41 0 R /Title (-f,&nbsp;\205-max-frames&nbsp;)
+>>
+endobj
+43 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 194.8236 0 ] /Parent 38 0 R /Prev 42 0 R /Title (-h,&nbsp;\205help)
+>>
+endobj
+44 0 obj
+<<
+/Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /Next 45 0 R /Parent 18 0 R /Prev 38 0 R /Title (Collaboration Policy)
+>>
+endobj
+45 0 obj
+<<
+/Dest [ 15 0 R /XYZ 62.69291 595.0236 0 ] /Parent 18 0 R /Prev 44 0 R /Title (Access to Isengard)
+>>
+endobj
+46 0 obj
+<<
+/Count 9 /Kids [ 5 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 15 0 R ] /Type /Pages
+>>
+endobj
+47 0 obj
+<<
+/Length 4233
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F2 20 Tf 24 TL 47.11488 0 Td (CSCI-442 - Project 5 - A Simple Memory) Tj T* 77.81 0 Td (Management Simulator) Tj T* -124.9249 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 3.236412 Tw (For this project, you will implement a simulation of an operating system\222s memory manager. The) Tj T* 0 Tw .15561 Tw (simulation will read files representing the process images of various processes, then replay a set of virtual) Tj T* 0 Tw .651412 Tw (address references to those processes using one of two different replacement strategies. The output will) Tj T* 0 Tw .165318 Tw (be various statistics, including the number of memory accesses, page faults, and free frames remaining in) Tj T* 0 Tw (the system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This project must be implemented in C++, and it must execute correctly on Isengard.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Deliverables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Deliverable 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (All unit tests in the starter code pass when running ) Tj /F3 10 Tf (make) Tj ( ) Tj (test) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Deliverable 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All functionality from Deliverable 1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The replacement strategy can be specified using the ) Tj /F3 10 Tf (-\226strategy) Tj /F1 10 Tf ( flag \(Section 7, Section 10\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .815697 Tw 12 TL /F1 10 Tf 0 0 0 rg (The maximum number of frames a process may use is configurable using the ) Tj /F3 10 Tf (\226-max-frames) Tj /F1 10 Tf ( flag) Tj T* 0 Tw (\(Section 6, Section 10\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All required information is present in the output as specified in Section 8.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .980751 Tw 12 TL /F1 10 Tf 0 0 0 rg (Details about individual memory accesses are correctly displayed when the ) Tj /F3 10 Tf (\226-verbose) Tj /F1 10 Tf ( flag is set) Tj T* 0 Tw (\(Section 8\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Examples of the correct output for this deliverable are provided with the starter code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+Q
+ 
+endstream
+endobj
+48 0 obj
+<<
+/Length 6391
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Grading for this project will be based on:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Passing unit tests) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Output matching provided examples) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Output matching "hidden" grader test cases) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (It is vital that you follow all output requirements as mentioned in Section 8.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.501235 Tw (Given that you have been provided with example outputs and a script to help you verify your) Tj T* 0 Tw 2.667984 Tw (program\222s outputs, no tolerance will be made for programs that do not abide by these output) Tj T* 0 Tw (formatting rules and examples.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.324597 Tw (Make sure all debugging and other non-required print statements have been commented out before) Tj T* 0 Tw (submitting your deliverables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Requirements and Reference) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You are ) Tj /F2 10 Tf (required) Tj /F1 10 Tf ( to use the starter code provided for this project.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .558876 Tw 12 TL /F1 10 Tf 0 0 0 rg (To compile your code, the grader should be to ) Tj /F3 10 Tf (cd) Tj /F1 10 Tf ( into it and simply type ) Tj /F3 10 Tf (make) Tj /F1 10 Tf (. Typing ) Tj /F3 10 Tf (make) Tj ( ) Tj (test) Tj /F1 10 Tf  T* 0 Tw 1.491567 Tw (should run the unit tests, all of which should pass. The grader must be able to do this using the) Tj T* 0 Tw /F3 10 Tf (Makefile) Tj /F1 10 Tf ( that is provided with the starter code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm -0.12814 Tw 12 TL /F1 10 Tf 0 0 0 rg (Do not modify the ) Tj /F3 10 Tf (Makefile) Tj /F1 10 Tf ( provided in the starter code. The grader will be replacing the ) Tj /F3 10 Tf (Makefile) Tj /F1 10 Tf  T* 0 Tw (with a copy of the one provided with the starter code during grading.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.14936 Tw 12 TL /F1 10 Tf 0 0 0 rg (The grader must be able to execute your program by typing ) Tj /F3 10 Tf (./mem-sim) Tj /F1 10 Tf ( from the root of your) Tj T* 0 Tw (repository.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Do not modify the directory structure provided in the starter code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your project must execute correctly on Isengard.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .35881 Tw 12 TL /F1 10 Tf 0 0 0 rg (As long as they are present on Isengard, you are encouraged to use any C++ standard libraries you) Tj T* 0 Tw (may find useful, such as ) Tj /F3 10 Tf (<) Tj (bitset) Tj (>) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (<) Tj (map) Tj (>) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (<) Tj (queue) Tj (>) Tj /F1 10 Tf (, etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .060514 Tw (Use good formatting skills. A well formatted project will not only be easier to work in and debug, but it) Tj T* 0 Tw (will also make for a happier grader.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+Q
+ 
+endstream
+endobj
+49 0 obj
+<<
+/Length 7924
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Submission Checklist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Please make sure that you have done all of the following ) Tj /F4 10 Tf (prior) Tj /F1 10 Tf ( to submission:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your code compiles on Isengard.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.355433 Tw 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F3 10 Tf (make) Tj ( ) Tj (clean) Tj ( ) Tj (&) Tj (&) Tj ( ) Tj (make) Tj /F1 10 Tf (. Your program should compile and "Successfully Compiled!") Tj T* 0 Tw (should print to the screen.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your program should be able be invoked from the root of your repository.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F3 10 Tf (./mem-sim) Tj /F1 10 Tf ( from the root of your repository.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your program passes all of its unit tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F3 10 Tf (make) Tj ( ) Tj (test) Tj /F1 10 Tf ( from the root of your repository.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your implementation of the simulation logic and replacement strategies is finished.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F3 10 Tf (./test-my-work.sh) Tj /F1 10 Tf ( from the root of your repository.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your solution should be identical to the provided solutions.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All the files required for your project have been committed and pushed to your GitHub repository.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (./make-submission) Tj /F1 10 Tf ( runs without error) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf (zip) Tj /F1 10 Tf ( file made by ) Tj /F3 10 Tf (./make-submission) Tj /F1 10 Tf ( is uploaded to Gradescope correctly.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Getting Started) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .241163 Tw (You have been provided with starter code that has some basic functionality implemented and a set of unit) Tj T* 0 Tw .869318 Tw (tests to help you with implementing the project. The starter code implements command line flag parsing) Tj T* 0 Tw .090651 Tw (and simulation file parsing, in addition to functionality from data structures that were required to implement) Tj T* 0 Tw .84811 Tw (these features. However you will still need to complete the implementation of many of the included data) Tj T* 0 Tw (structures.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 2.574983 Tw 12 TL /F1 10 Tf 0 0 0 rg (The starter code already has a ) Tj /F3 10 Tf (Makefile) Tj /F1 10 Tf ( that builds everything under the ) Tj /F3 10 Tf (src/) Tj /F1 10 Tf ( directory, placing) Tj T* 0 Tw 1.261654 Tw (temporary files in a bin directory and the program itself \(named ) Tj /F3 10 Tf (mem-sim) Tj /F1 10 Tf ( by default\) in the root of the) Tj T* 0 Tw .753984 Tw (repository. It also includes a ) Tj /F3 10 Tf (make) Tj ( ) Tj (test) Tj /F1 10 Tf ( target that will automatically build all ) Tj /F3 10 Tf (_tests.cpp) Tj /F1 10 Tf ( files placed) Tj T* 0 Tw (anywhere under the ) Tj /F3 10 Tf (src/) Tj /F1 10 Tf ( directory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 303.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.367126 Tw 12 TL /F1 10 Tf 0 0 0 rg (It has numerous classes declared that attempt to model the various concepts in memory management) Tj T* 0 Tw 1.414692 Tw (you\222ll need. Most are located in subdirectories of the ) Tj /F3 10 Tf (src/) Tj /F1 10 Tf ( directory. Your first task should be to skim) Tj T* 0 Tw (through these files to get a handle on what is provided for you.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.29311 Tw 12 TL /F1 10 Tf 0 0 0 rg (All methods that are declared in a header file have a stub implementation in their corresponding ) Tj /F3 10 Tf (.cpp) Tj /F1 10 Tf  T* 0 Tw -0.110013 Tw (files. Most of these functions have unit tests already written for them, and you will be required to implement) Tj T* 0 Tw .50683 Tw (the function stubs such that all the tests pass. You are free to add additional methods and unit tests how) Tj T* 0 Tw (ever you see fit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 207.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .018555 Tw 12 TL /F1 10 Tf 0 0 0 rg (The starter code has already implemented the flag parsing functionality, and within the ) Tj /F3 10 Tf (Simulation) Tj /F1 10 Tf ( class) Tj T* 0 Tw 2.739983 Tw (there exists an implementation of a ) Tj /F3 10 Tf (print_summary) Tj /F1 10 Tf ( function that should be used once you have) Tj T* 0 Tw (populated the ) Tj /F3 10 Tf (Simulation) Tj /F1 10 Tf ( class with the correct variables and functions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 207.0236 cm
+Q
+ 
+endstream
+endobj
+50 0 obj
+<<
+/Length 5441
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Where to Start?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .501235 Tw (It is recommended that you start the project by implementing the functionality for the various classes that) Tj T* 0 Tw .241751 Tw (have been provided for you. You are able to check your work on your implementations using the provided) Tj T* 0 Tw (unit testing functionality, discussed in the following section.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.383984 Tw (Many of these data structures are dependent on each other. For example, think about the relationship) Tj T* 0 Tw .229982 Tw (between virtual addresses and physical addresses, or pages, page tables, and processes. Thinking about) Tj T* 0 Tw .731751 Tw (these things, perhaps drawing a diagram to see how they all fit together, will help you better understand) Tj T* 0 Tw 1.031654 Tw (how to implement the project. This will also help you better understand how all these pieces need to fit) Tj T* 0 Tw (together for your operating system to perform memory management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 62 Tm -0.019426 Tw 12 TL /F1 10 Tf 0 0 0 rg (While the command line flag parsing functionality has been implemented for you, you should take a look at) Tj T* 0 Tw .544983 Tw (the ) Tj /F3 10 Tf (FlagOptions) Tj /F1 10 Tf ( struct that stores information retrieved from command line input. This struct is passed) Tj T* 0 Tw .766457 Tw (into the ) Tj /F3 10 Tf (Simulation) Tj /F1 10 Tf ( class via its constructor, and the values contained in it should be used for various) Tj T* 0 Tw .618651 Tw (aspects of your simulation. For example, the ) Tj /F3 10 Tf (FlagOptions) Tj /F1 10 Tf ( struct contains variables that let you know if) Tj T* 0 Tw .242927 Tw (you should be printing the verbose output \(Section 8\), what the maximum number of frames for a process) Tj T* 0 Tw (should be \(Section 6\), or what replacement strategy you should be using \(Section 7\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Unit Tests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .537209 Tw (The starter code contains a number of unit tests to help you implement the various data structures in the) Tj T* 0 Tw (project. To run the tests, run the following from within your repository:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (make) Tj ( ) Tj (test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .112927 Tw 12 TL /F1 10 Tf 0 0 0 rg (Most of them will fail until you implement the corresponding functionality. You can run only certain tests by) Tj T* 0 Tw (executing the ) Tj /F3 10 Tf (make) Tj ( ) Tj (test) Tj /F1 10 Tf ( command with a ) Tj /F3 10 Tf (TEST_FILTER) Tj /F1 10 Tf ( option:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (make) Tj ( ) Tj (test) Tj ( ) Tj (TEST_FILER="Test) Tj ( ) Tj (Case) Tj ( ) Tj (Pattern") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For example, to run only the ) Tj /F3 10 Tf (Process) Tj /F1 10 Tf ( class\222s test cases, you would type:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (make) Tj ( ) Tj (test) Tj ( ) Tj (TEST_FILTER="Process*") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To run a specific test, say the ) Tj /F3 10 Tf (TotalSize) Tj /F1 10 Tf ( test from the ) Tj /F3 10 Tf (Process) Tj /F1 10 Tf ( test cases, you would type:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (make) Tj ( ) Tj (test) Tj ( ) Tj (TEST_FILTER="Process.TotalSize") Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Output Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .918409 Tw 12 TL /F1 10 Tf 0 0 0 rg (The starter code also has example outputs and a script that you can run to verify your solution with the) Tj T* 0 Tw .625366 Tw (provided outputs. The example outputs themselves are located under ) Tj /F3 10 Tf (tests/) Tj /F1 10 Tf (, and the verification script) Tj T* 0 Tw (is named ) Tj /F3 10 Tf (test-my-work.sh) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To use the script, from the root of your repository, type these commands into your terminal of choice:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 227.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (chmod +x test-my-work.sh) Tj T* (./test-my-work.sh) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 207.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf (chmod) Tj ( ) Tj (+x) Tj /F1 10 Tf ( command only needs to be run once per computer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.288221 Tw (The sections below discuss the more technical aspects of the project, so it is suggested that you read) Tj T* 0 Tw (them carefully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.8236 cm
+Q
+ 
+endstream
+endobj
+51 0 obj
+<<
+/Length 8197
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Simulation Properties) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.176905 Tw (Your program will simulate memory management for a hypothetical computer system with the following) Tj T* 0 Tw (attributes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Pages and frames are both ) Tj /F2 10 Tf (64 bytes) Tj /F1 10 Tf ( in size.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Main memory consists of ) Tj /F2 10 Tf (512 frames) Tj /F1 10 Tf ( for a total of 32 kilobytes of storage.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .036235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Addresses are ) Tj /F2 10 Tf (16 bits long) Tj /F1 10 Tf (, with the ten most-significant bits representing the page or frame and the) Tj T* 0 Tw (six least-significant representing the offset.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .152651 Tw (The maximum number of frames allocated to a process is static. Processes may be allocated frames) Tj T* 0 Tw (until either reaching this limit or the system runs out of free frames to allocate.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .17811 Tw (The default maximum number of frames is 10, however the user may input a maximum frames value) Tj T* 0 Tw (when executing the simulation \(Section 10\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.212339 Tw (All frames in main memory are available for use by user processes; the OS does not occupy any) Tj T* 0 Tw (memory \(unlike a real computer\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.97936 Tw (Page tables do not occupy main memory, and reading from a page table does not constitute a) Tj T* 0 Tw (memory access.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (8.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No translation look-aside buffer exists, so you do not need to simulate one.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (9.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .32881 Tw (Processes exist for the entire duration of the simulation; if you\222ve done the last memory access for a) Tj T* 0 Tw -0.091124 Tw (given process as specified in the file, it continues to occupy its current frames for the remainder of the) Tj T* 0 Tw (simulation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (10.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.95229 Tw (Segmentation faults \(memory access faults\) are fatal and should cause the simulation to exit) Tj T* 0 Tw (immediately.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 75 cm
+Q
+q
+1 0 0 1 23 75 cm
+Q
+q
+1 0 0 1 23 63 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There are two kinds of segfaults: invalid page segfaults, and invalid offset segfaults.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 57 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.077661 Tw (Invalid page segfaults occur when a process is trying to access a page that it does not have) Tj T* 0 Tw (access to.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.394651 Tw (Invalid offset segfaults occur when a process is trying to access an offset that does not) Tj T* 0 Tw (exist as valid data in a given frame.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (11.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.43436 Tw (If a process has not reached its maximum number of allocated frames, it should pick the first) Tj T* 0 Tw (available frame.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (12.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .900751 Tw 12 TL /F1 10 Tf 0 0 0 rg (The replacement strategies in the simulation are ) Tj /F4 10 Tf (local) Tj /F1 10 Tf ( replacement strategies. Once a process has) Tj T* 0 Tw .989987 Tw (reached its maximum number of allocated frames, it needs to pick one of its pages that is in main) Tj T* 0 Tw (memory to replace.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Replacement Strategies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .529069 Tw (Your memory management simulation must support two different page-replacement strategies: FIFO and) Tj T* 0 Tw (LRU. Which strategy to use should be provided as a command-line flag, as discussed in Section 10.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .405868 Tw (Both of these strategies should be implemented as they are described in your textbook. While LRU is not) Tj T* 0 Tw 1.33561 Tw (feasible to implement in real operating systems, your simulation has no such problem. You are free to) Tj T* 0 Tw .396235 Tw (keep track of whatever dat you need to implement the two required strategies, regardless of how feasible) Tj T* 0 Tw (the collection of that data would be in a real OS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+Q
+ 
+endstream
+endobj
+52 0 obj
+<<
+/Length 7558
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Required Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Examples of all outputs can be found within the starter code under ) Tj /F3 10 Tf (tests/) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (You Need to Implement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (\226verbose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .70284 Tw 12 TL /F1 10 Tf 0 0 0 rg (If ) Tj /F3 10 Tf (\226-verbose) Tj /F1 10 Tf ( or ) Tj /F3 10 Tf (-v) Tj /F1 10 Tf ( is specified, your simulation must output information about each memory reference.) Tj T* 0 Tw (The required information is as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The ID of the process making the memory reference.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The virtual address being accessed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Whether the memory access resulted in a page fault or not.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The physical address corresponding to the virtual address.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The process\222 current resident set size \(RSS\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here is an example of what this should look like for one memory reference:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F3 10 Tf 0 0 0 rg (PID 10 @ 0000010011101111 [page: 19; offset: 47]) Tj T* (    -) Tj (>) Tj ( PAGE FAULT) Tj T* (    -) Tj (>) Tj ( physical address 0000000000101111 [frame: 0; offset: 47]) Tj T* (    -) Tj (>) Tj ( RSS: 1) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 429.8236 cm
+q
+BT 1 0 0 1 0 14 Tm -0.10472 Tw 12 TL /F1 10 Tf 0 0 0 rg (It is recommended that you take advantage of the ) Tj /F3 10 Tf (<) Tj (<) Tj /F1 10 Tf ( operator overloads written for the virtual and physical) Tj T* 0 Tw (address classes when printing this information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Implemented For You) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 369.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .143516 Tw (This section is provided for your reference. All the logging and output functionality in this section has been) Tj T* 0 Tw (written for you.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Unless the ) Tj /F3 10 Tf (\226-csv) Tj /F1 10 Tf ( or ) Tj /F3 10 Tf (--c) Tj /F1 10 Tf ( flag is input, your program should always output this information to the screen:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.8236 cm
+Q
+q
+1 0 0 1 62.69291 345.8236 cm
+Q
+q
+1 0 0 1 62.69291 333.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The total number of memory accesses.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 327.8236 cm
+Q
+q
+1 0 0 1 62.69291 315.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The total number of page faults.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 309.8236 cm
+Q
+q
+1 0 0 1 62.69291 297.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The number of free frames remaining.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 291.8236 cm
+Q
+q
+1 0 0 1 62.69291 207.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For each process:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 51 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Total number of memory accesses.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Total number of page faults.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The percent of memory accesses that caused a page fault.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The resident set size of the process at the end of the simulation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 207.8236 cm
+Q
+q
+1 0 0 1 62.69291 189.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here is an example of how this should look:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 84.62362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F3 10 Tf 12 TL (Process  10:  ACCESSES: 30     FAULTS: 19     FAULT RATE: 63.33    RSS: 10) Tj T* (Process  42:  ACCESSES: 31     FAULTS: 29     FAULT RATE: 93.55    RSS: 10) Tj T* (Process  99:  ACCESSES: 53     FAULTS: 53     FAULT RATE: 100.00   RSS: 10) Tj T*  T* (Total memory accesses:             114) Tj T* (Total page faults:                 101) Tj T* (Free frames remaining:             482) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+53 0 obj
+<<
+/Length 5091
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 750.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (\226csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .001751 Tw 12 TL /F1 10 Tf 0 0 0 rg (If ) Tj /F3 10 Tf (-\226csv) Tj /F1 10 Tf ( or ) Tj /F3 10 Tf (--c) Tj /F1 10 Tf ( is specified, your simulation must output the same information as mentioned above, but in) Tj T* 0 Tw (the format shown below:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F3 10 Tf 12 TL (10,30,19,63.33,10) Tj T* (42,31,29,93.55,10) Tj T* (99,53,53,100.00,10) Tj T* (114,,,,) Tj T* (101,,,,) Tj T* (482,,,,) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 582.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 2.579318 Tw (When the ``\226csv`` flag is provided, your program should not print anything else, even if the) Tj T* 0 Tw 1.326457 Tw (``\226verbose`` flag is also provided in the command line. \(This is taken care of for you within the) Tj T* 0 Tw (provided flag parsing functionality.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Simulation File Format) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This section is provided as a reference. All the file input parsing has been written for you.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.681163 Tw (The simulation file specifies both the set of processes that are currently active in the system and the) Tj T* 0 Tw (sequence of virtual addresses that should be accessed. Its format is as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.2071 cm
+q
+q
+.887925 0 0 .887925 0 0 cm
+q
+1 0 0 1 6.6 7.433063 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 528 120 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F3 10 Tf 12 TL (num processes) Tj T* (process_id process_file         // The process ID and corresponding process image file) Tj T* (process_id process_file         // The process ID and corresponding process image file) Tj T*  T* (process_id virtual_address      // PID of process and the address being accessed) Tj T* (process_id virtual_address      // PID of process and the address being accessed) Tj T* (process_id virtual_address      // PID of process and the address being accessed) Tj T* (process_id virtual_address      // PID of process and the address being accessed) Tj T* (...                             // Keep reading until EOF) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 366.2071 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here is an example. Note that the comments won\222t be in the actual files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 226.2891 cm
+q
+q
+.908526 0 0 .908526 0 0 cm
+q
+1 0 0 1 6.6 7.264512 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 516 144 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 122 Tm /F3 10 Tf 12 TL (2                       // 2 processes active in the system) Tj T* (10 process 1.txt        // Process with PID 10 and file containing its process image) Tj T* (42 process 2.txt        // Process with PID 42 and file containing its process image) Tj T*  T* (10 0010000110011001     // Process 10 accesses address 0010000110011001) Tj T* (10 0010000110011010     // Process 10 accesses address 0010000110011010) Tj T* (10 0010000110011011     // Process 10 accesses address 0010000110011011) Tj T* (42 0110000110011001     // Process 42 accesses address 0110000110011001) Tj T* (42 0100000110011010     // Process 42 accesses address 0100000110011010) Tj T* (10 0010000110011001     // Process 10 accesses address 0010000110011001) Tj T* (...                     // Keep reading until EOF) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 194.2891 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.045802 Tw (The first line specifies the number of processes active in the system. You can use this value to control how) Tj T* 0 Tw (many subsequent values you interpret as processes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 128.2891 cm
+q
+BT 1 0 0 1 0 50 Tm .676488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Each process has both a process ID and a file that contains the data that should be used as its process) Tj T* 0 Tw 1.11683 Tw (image. The file should be assumed to be in binary format, though you can read each byte into a ) Tj /F3 10 Tf (char) Tj /F1 10 Tf  T* 0 Tw 1.744724 Tw (array. The "process file" field is the filename of the process image. It is a filename that points to the) Tj T* 0 Tw 2.31528 Tw (location of the process image relative to the location of the ) Tj /F3 10 Tf (mem-sim) Tj /F1 10 Tf ( binary file that you run using) Tj T* 0 Tw /F3 10 Tf (./mem-sim) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 98.28914 cm
+q
+BT 1 0 0 1 0 14 Tm .571163 Tw 12 TL /F1 10 Tf 0 0 0 rg (The starter code contains an example simulation file, as well as a few dummy process images under the) Tj T* 0 Tw /F3 10 Tf (inputs/) Tj /F1 10 Tf ( directory.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+54 0 obj
+<<
+/Length 4054
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Command-Line Flags) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This section is provided as a reference. All the command line input parsing has been written for you.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .148443 Tw (Your program must support invocation in the format specified below, including the following command-line) Tj T* 0 Tw (flags:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 482.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 204 re B*
+Q
+q
+BT 1 0 0 1 0 182 Tm 12 TL /F3 10 Tf 0 0 0 rg (./mem-sim [flags] simulation_file.txt) Tj T*  T* (-v, --verbose) Tj T* (    Output information about every memory access.) Tj T*  T* (-s, --strategy ) Tj (<) Tj (FIFO | LRU) Tj (>) Tj  T* (    The replacement strategy to use. One of FIFO or LRU.) Tj T*  T* (-f, --max-frames [positive integer]) Tj T* (    The maximum number of frames a process may be allocated.) Tj T*  T* (-i, --file-verbose,) Tj T* (    Print process size and virtual addresses when reading in file.) Tj T*  T* (-h --help) Tj T* (    Display a help message about these flags and exit) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 452.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (-c,) Tj ( ) Tj (-\226csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 434.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The output required for the ) Tj /F3 10 Tf (\226-csv) Tj /F1 10 Tf ( flag is described in Section 8.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 404.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (-v,) Tj ( ) Tj (-\226verbose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The output required for the ) Tj /F3 10 Tf (\226-verbose) Tj /F1 10 Tf ( flag is described in Section 8.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 356.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (-s,) Tj ( ) Tj (\226-strategy) Tj ( ) Tj (<) Tj (FIFO) Tj ( ) Tj (|) Tj ( ) Tj (LRU) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 302.8236 cm
+q
+BT 1 0 0 1 0 38 Tm .979984 Tw 12 TL /F1 10 Tf 0 0 0 rg (This flag determines the replacement strategy that your simulation must use when either a process has) Tj T* 0 Tw 1.267126 Tw (been allocated the maximum number of frames \(determined by ) Tj /F3 10 Tf (\226-max-frames) Tj /F1 10 Tf (\) or the system has no) Tj T* 0 Tw .90832 Tw (free frames available. A strategy must be supplied when using this flag. If this flag is not provided, your) Tj T* 0 Tw (program should default to using FIFO.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 272.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (-f,) Tj ( ) Tj (\226-max-frames) Tj ( ) Tj (<) Tj (positive) Tj ( ) Tj (integer) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 206.8236 cm
+q
+BT 1 0 0 1 0 50 Tm .779985 Tw 12 TL /F1 10 Tf 0 0 0 rg (This flag requires a positive integer argument and specifies the maximum number of frames that can be) Tj T* 0 Tw .047633 Tw (allocated to a single process, assuming the system still has free frames available. If a process already has) Tj T* 0 Tw 1.475251 Tw (this number of frames, or the system has no more free frames to spare, you must replace one of the) Tj T* 0 Tw .43186 Tw (process\222 other pages using the replacement strategy specified by ) Tj /F3 10 Tf (-\226strategy) Tj /F1 10 Tf ( to bring in a new page. If) Tj T* 0 Tw (the flag is not provided, it should default to 10.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 176.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (-h,) Tj ( ) Tj (\226help) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 146.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.00832 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf (-\226help) Tj /F1 10 Tf ( flag must cause your program to print out instruction for how to run your program and the) Tj T* 0 Tw (flags it accepts and then ) Tj /F2 10 Tf (immediately) Tj /F1 10 Tf ( exit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 146.8236 cm
+Q
+ 
+endstream
+endobj
+55 0 obj
+<<
+/Length 2247
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Collaboration Policy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.15881 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is an ) Tj /F2 10 Tf (individual project) Tj /F1 10 Tf (. All code you submit should be written by yourself. You should not share) Tj T* 0 Tw (your code with others.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Please see the syllabus for the full collaboration policy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+Q
+q
+1 0 0 1 62.69291 613.0236 cm
+q
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F5 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Plagarism will be punished harshly!) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 607.0236 cm
+Q
+q
+1 0 0 1 62.69291 574.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Access to Isengard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 556.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Remote access to Isengard is quite similar to ALAMODE, but the hostname is ) Tj /F3 10 Tf (isengard.mines.edu) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 538.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For example, to ) Tj /F3 10 Tf (ssh) Tj /F1 10 Tf ( into the machine with your campus MultiPass login, use this command:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL ($ ssh username@isengard.mines.edu) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 472.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .540465 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note: you need to be on the campus network or VPN for this to work. If you are working from home, use) Tj T* 0 Tw (either the VPN or hop thru ) Tj /F3 10 Tf (imagine.mines.edu) Tj /F1 10 Tf ( first.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+56 0 obj
+<<
+/Nums [ 0 57 0 R 1 58 0 R 2 59 0 R 3 60 0 R 4 61 0 R 
+  5 62 0 R 6 63 0 R 7 64 0 R 8 65 0 R ]
+>>
+endobj
+57 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+58 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+59 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+60 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+61 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+62 0 obj
+<<
+/S /D /St 6
+>>
+endobj
+63 0 obj
+<<
+/S /D /St 7
+>>
+endobj
+64 0 obj
+<<
+/S /D /St 8
+>>
+endobj
+65 0 obj
+<<
+/S /D /St 9
+>>
+endobj
+xref
+0 66
+0000000000 65535 f 
+0000000073 00000 n 
+0000000145 00000 n 
+0000000252 00000 n 
+0000000364 00000 n 
+0000000469 00000 n 
+0000000674 00000 n 
+0000000879 00000 n 
+0000000994 00000 n 
+0000001199 00000 n 
+0000001404 00000 n 
+0000001610 00000 n 
+0000001816 00000 n 
+0000002022 00000 n 
+0000002228 00000 n 
+0000002348 00000 n 
+0000002554 00000 n 
+0000002660 00000 n 
+0000002977 00000 n 
+0000003052 00000 n 
+0000003165 00000 n 
+0000003330 00000 n 
+0000003444 00000 n 
+0000003558 00000 n 
+0000003679 00000 n 
+0000003819 00000 n 
+0000003953 00000 n 
+0000004121 00000 n 
+0000004237 00000 n 
+0000004361 00000 n 
+0000004476 00000 n 
+0000004612 00000 n 
+0000004749 00000 n 
+0000004918 00000 n 
+0000005080 00000 n 
+0000005180 00000 n 
+0000005340 00000 n 
+0000005436 00000 n 
+0000005573 00000 n 
+0000005745 00000 n 
+0000005864 00000 n 
+0000006000 00000 n 
+0000006143 00000 n 
+0000006288 00000 n 
+0000006407 00000 n 
+0000006542 00000 n 
+0000006662 00000 n 
+0000006775 00000 n 
+0000011060 00000 n 
+0000017503 00000 n 
+0000025479 00000 n 
+0000030972 00000 n 
+0000039221 00000 n 
+0000046831 00000 n 
+0000051974 00000 n 
+0000056080 00000 n 
+0000058379 00000 n 
+0000058495 00000 n 
+0000058529 00000 n 
+0000058563 00000 n 
+0000058597 00000 n 
+0000058631 00000 n 
+0000058665 00000 n 
+0000058699 00000 n 
+0000058733 00000 n 
+0000058767 00000 n 
+trailer
+<<
+/ID 
+[<6b33a04d85e389adb390bad5f8c4ef82><6b33a04d85e389adb390bad5f8c4ef82>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 17 0 R
+/Root 16 0 R
+/Size 66
+>>
+startxref
+58801
+%%EOF
