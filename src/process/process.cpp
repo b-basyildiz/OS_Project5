@@ -42,6 +42,7 @@ bool Process::is_valid_page(size_t index) const
        return true;
    }
    return false;
+  //return this->page_table.rows[index].present; 
 }
 
 size_t Process::get_rss() const

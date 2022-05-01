@@ -110,4 +110,12 @@ public:
     * A list containing the indices of all frames that are not currently in use.
     */
     std::list<size_t> free_frames;
+
+
+    //MY CODE
+    /**
+     * The virtual time of the simulation
+     * 
+     */
+    int time = 0; 
 };
