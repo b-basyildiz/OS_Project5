@@ -118,4 +118,15 @@ public:
      * 
      */
     int time = 0; 
+
+    /**
+     * The count of the current frame that is being put into memory
+     * 
+     */
+    int frame_count = 0; 
+    /**
+     * offset storage
+     * 
+     */
+    int temp_offset;
 };

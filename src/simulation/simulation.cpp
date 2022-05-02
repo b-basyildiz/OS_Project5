@@ -18,33 +18,16 @@ Simulation::Simulation(FlagOptions& flags)
 
 void Simulation::run() {
     // TODO: implement me
-    /*
-    if(int(this->flags.strategy) == 0){//FIFO
-
-    }else if(int(this->flags.strategy) == 0){//LRU
-
-    }else{
-        throw("Error: invalid replacement policy"); 
-    }
-    */ 
-   /*
-   for(auto itr = this->processes.begin(); itr != this->processes.end(); ++itr){
-       int i = 0;
-       for (auto page: this->processes[itr->first]->pages){
-           //std::cout << this->virtual_addresses[i] << std::endl;
-           std::cout << i << std::endl;
-           ++i; 
-       }
-   }
-   */
   for(int i = 0; i < 512; ++i){//actually made the values the frames 
     this->free_frames.push_back(i); 
   }
 
     for(int  i = 0; i < this->virtual_addresses.size(); ++i){
-        //std::cout << this->virtual_addresses[i].process_id << std::endl;
         if(!this->perform_memory_access(virtual_addresses[i])){
             this->handle_page_fault(this->processes[this->virtual_addresses[i].process_id],virtual_addresses[i].page);
+        }
+        if(flags.verbose){
+            std::cout << "\t-> RSS: " << this->processes[this->virtual_addresses[i].process_id]->get_rss() << std::endl;
         }
     }
    this->print_summary(); 
@@ -52,34 +35,99 @@ void Simulation::run() {
 
 char Simulation::perform_memory_access(const VirtualAddress& virtual_address) {
     // TODO: implement me
-    //Thought process -> use process to find if the page is valid 
-    //if it is, return 1 else return 0
+
+    if(this->flags.verbose){
+        std::cout << virtual_address << std::endl;
+    }
+
     this->time++;
     processes[virtual_address.process_id]->memory_accesses += 1;
+    /*
     if(!this->processes[virtual_address.process_id]->is_valid_page(virtual_address.page)){
-        throw("Segmentation Fault: Accessing invalid page"); 
+        std::cout << "SEGFAULT - INVALID PAGE" << std::endl;
+        throw;
+        //throw std::runtime_error("SEGFAULT - INVALID PAGE"); 
     }
-    if(this->processes[virtual_address.process_id]->page_table.rows[virtual_address.page].present){ 
+    */
+    try{
+        if(!this->processes[virtual_address.process_id]->is_valid_page(virtual_address.page)){
+            //std::cout << "SEGFAULT - INVALID PAGE" << std::endl;
+            throw std::runtime_error("SEGFAULT - INVALID PAGE"); 
+        }
+    }
+    catch (std::runtime_error &e){
+        std::cerr << e.what() << std::endl;
+        throw;
+    }
+
+    if(this->processes[virtual_address.process_id]->page_table.rows[virtual_address.page].present){//page is linked to frame
         this->processes[virtual_address.process_id]->page_table.rows[virtual_address.page].last_accessed_at = time;
-        //std::cout << "Loaded page" << virtual_address.page << std::endl;
+
+        /*
+        if(!this->processes[virtual_address.process_id]->pages[virtual_address.page]->is_valid_offset(virtual_address.offset)){
+            std::cout << "SEGFAULT - INVALID OFFSET" << std::endl;
+            exit;
+        }
+        */
+
+        if(this->flags.verbose){
+                //TODO
+                std::cout << "\t-> IN MEMORY" <<std::endl;
+                PhysicalAddress p(this->processes[virtual_address.process_id]->page_table.rows[virtual_address.page].frame,virtual_address.offset);
+                std::cout << "\t-> physical address " << p << std::endl; 
+        }
         return 1;
     }
-    //std::cout << "Not loaded page" << std::endl;
+    //page does not have a frame 
     processes[virtual_address.process_id]->page_faults += 1;
     this->page_faults++;
+    this->temp_offset = virtual_address.offset;
     return 0; 
 }
 
 void Simulation::handle_page_fault(Process* process, size_t page) {
     // TODO: implement me
-    for(int i = 0; i < this->flags.max_frames; ++i){
-        if(!process->page_table.rows[i].present){
-            process->page_table.rows[i].present = true;
-            process->page_table.rows[i].loaded_at = this->time; 
-            process->page_table.rows[i].last_accessed_at = this->time; 
-            //process->page_table.rows[i].frame = i + 
-            this->free_frames.pop_back();//we need to fix this as well
+    int p_replace; 
+    int f_num; 
+
+    if(this->flags.verbose){
+        std::cout << "\t-> PAGE FAULT" << std::endl;
+    }
+
+    if(process->page_table.get_present_page_count() < this->flags.max_frames){
+            Frame f;
+            f.set_page(process,page); 
+            this->frames.push_back(f); 
+            this->free_frames.pop_front();
+            f_num = this->frame_count; 
+            this->frame_count++; 
+
+            p_replace = process->page_table.get_present_page_count(); 
+    }else{
+        //replacement policy 
+        if (int(this->flags.strategy) == 0){//FIFO
+            p_replace = process->page_table.get_oldest_page(); 
+        }else if (int(this->flags.strategy) == 1){//LRU
+            p_replace = process->page_table.get_least_recently_used_page();
+        }else{
+            //throw("Error: Unavailable Replacement Policy");
         }
+        f_num = process->page_table.rows[p_replace].frame;
+        process->page_table.rows[p_replace].present = false; 
+    }
+    process->page_table.rows[page].present = true;
+    process->page_table.rows[page].loaded_at = this->time; 
+    process->page_table.rows[page].last_accessed_at = this->time; 
+    process->page_table.rows[page].frame = f_num;
+
+    if(this->flags.verbose){
+        //TODO
+        PhysicalAddress p(process->page_table.rows[page].frame,this->temp_offset);
+        std::cout << "\t-> physical address " << p << std::endl; 
+    }
+    if(!process->pages[page]->is_valid_offset(this->temp_offset)){
+        std::cout << "SEGFAULT - INVALID OFFSET" << std::endl;
+        return;
     }
 }
 
