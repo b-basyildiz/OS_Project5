@@ -124,9 +124,16 @@ public:
      * 
      */
     int frame_count = 0; 
+
     /**
      * offset storage
      * 
      */
     int temp_offset;
+
+    /**
+     * Segmentation Fault variable 
+     * 
+     */
+    bool seg_fault = false; 
 };
