@@ -35,14 +35,6 @@ void Simulation::run() {
     if(!this->seg_fault){
         this->print_summary(); 
     }
-    //how to deallocate memory of pages? 
-    /*
-   for(int  i = 0; i < this->virtual_addresses.size(); ++i){
-       for(int j = 0; j < this->processes[virtual_addresses[i].process_id]->pages.size(); ++j){
-           delete this->processes[virtual_addresses[i].process_id]->pages[i];
-       }
-    }
-    */
 
     for(auto process:this->processes){
         for(auto page: process.second->pages){
