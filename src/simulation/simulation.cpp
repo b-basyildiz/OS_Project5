@@ -24,9 +24,7 @@ void Simulation::run() {
   }
 
     for(int  i = 0; i < this->virtual_addresses.size(); ++i){
-        if(!this->perform_memory_access(virtual_addresses[i])){
-            this->handle_page_fault(this->processes[this->virtual_addresses[i].process_id],virtual_addresses[i].page);
-        }
+        this->perform_memory_access(virtual_addresses[i]);
         if(this->seg_fault){
             break;
         }
@@ -37,12 +35,25 @@ void Simulation::run() {
     if(!this->seg_fault){
         this->print_summary(); 
     }
-   
+    //how to deallocate memory of pages? 
+    /*
    for(int  i = 0; i < this->virtual_addresses.size(); ++i){
+       for(int j = 0; j < this->processes[virtual_addresses[i].process_id]->pages.size(); ++j){
+           delete this->processes[virtual_addresses[i].process_id]->pages[i];
+       }
     }
+    */
+
+    for(auto process:this->processes){
+        for(auto page: process.second->pages){
+            delete page;
+        }
+        delete process.second; 
+    }
+    
    
 }
-
+//ask about what to return. Is it the frame? or the page offset?
 char Simulation::perform_memory_access(const VirtualAddress& virtual_address) {
     // TODO: implement me
 
@@ -51,13 +62,14 @@ char Simulation::perform_memory_access(const VirtualAddress& virtual_address) {
     }
 
     this->time++;
-    processes[virtual_address.process_id]->memory_accesses += 1;
+    this->processes[virtual_address.process_id]->memory_accesses += 1;
     if(!this->processes[virtual_address.process_id]->is_valid_page(virtual_address.page)){
         this->seg_fault = true;
         std::cout << "SEGFAULT - INVALID PAGE" << std::endl;
-        return 1;
+        exit(-1); 
     }
 
+    PhysicalAddress p(this->processes[virtual_address.process_id]->page_table.rows[virtual_address.page].frame,virtual_address.offset);
     if(this->processes[virtual_address.process_id]->page_table.rows[virtual_address.page].present){//page is linked to frame
         this->processes[virtual_address.process_id]->page_table.rows[virtual_address.page].last_accessed_at = time;
 
@@ -65,22 +77,24 @@ char Simulation::perform_memory_access(const VirtualAddress& virtual_address) {
         if(!this->processes[virtual_address.process_id]->pages[virtual_address.page]->is_valid_offset(virtual_address.offset)){
             this->seg_fault = true;
             std::cout << "SEGFAULT - INVALID OFFSET" << std::endl;
-            return 1;
+            exit(-1);
         }
         
-
+        //PhysicalAddress p(this->processes[virtual_address.process_id]->page_table.rows[virtual_address.page].frame,virtual_address.offset);
         if(this->flags.verbose){
                 std::cout << "\t-> IN MEMORY" <<std::endl;
-                PhysicalAddress p(this->processes[virtual_address.process_id]->page_table.rows[virtual_address.page].frame,virtual_address.offset);
                 std::cout << "\t-> physical address " << p << std::endl; 
         }
-        return 1;
+        //return this->processes[virtual_address.process_id]->pages[virtual_address.page]->get_byte_at_offset(virtual_address.offset); 
+    }else{
+        //page does not have a frame 
+        processes[virtual_address.process_id]->page_faults += 1;
+        this->page_faults++;
+        this->temp_offset = virtual_address.offset;
+        this->handle_page_fault(this->processes[virtual_address.process_id],virtual_address.page);
     }
-    //page does not have a frame 
-    processes[virtual_address.process_id]->page_faults += 1;
-    this->page_faults++;
-    this->temp_offset = virtual_address.offset;
-    return 0; 
+    //return this->processes[virtual_address.process_id]->pages[virtual_address.page]->get_byte_at_offset(virtual_address.offset); 
+    return this->frames.at(p.frame).contents->get_byte_at_offset(virtual_address.offset); 
 }
 
 void Simulation::handle_page_fault(Process* process, size_t page) {
@@ -115,6 +129,7 @@ void Simulation::handle_page_fault(Process* process, size_t page) {
     process->page_table.rows[page].loaded_at = this->time; 
     process->page_table.rows[page].last_accessed_at = this->time; 
     process->page_table.rows[page].frame = f_num;
+    this->frames.at(f_num).set_page(process,page); 
 
     if(this->flags.verbose){
         //TODO
